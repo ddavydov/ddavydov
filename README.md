@@ -9,5 +9,3 @@ I'm big fan of TDD, functional programming and spiritual teachings :pray:
 ### Github Stats
 <img src="https://myreadme.vercel.app/api/embed/ddavydov?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
 
-### Stackoverflow Stats
-[![Ddavydov StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1154155)](https://stackoverflow.com/users/1154155/ddavydov)
